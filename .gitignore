@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# nodejs
+node_modules/*
+
+# IntelliJ IDEA
+.idea
+
+# Vagrant
+.vagrant

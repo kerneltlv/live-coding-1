@@ -1,0 +1,24 @@
+{
+  "name": "kernel-tlv-live-coding-1",
+  "version": "1.0.0",
+  "description": "KernelTLV Live Coding Session 1 Demo",
+  "main": "hrmon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerneltlv/live-coding-1.git"
+  },
+  "author": "Ido Ben-Yair",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/kerneltlv/live-coding-1/issues"
+  },
+  "homepage": "https://github.com/kerneltlv/live-coding-1#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "ioctl": "^2.0.1"
+  }
+}

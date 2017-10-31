@@ -1,0 +1,1 @@
+obj-m := hr_device.o
