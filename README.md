@@ -10,13 +10,13 @@ To start using, first we create a virtual machine for this project:
 1. Run `vagrant up` where you cloned the repo (where `Vagrantfile` is) to create a shiny new VM with everything you need in it.
 
 
-Now you can use your favorite editor to edit project files and changes will be reflected inside the VM in the `/project` directory.
+Now you can use your favorite editor to edit project files and changes will be reflected inside the VM in the `project` directory.
 
 To build the kernel module, run `vagrant ssh` to open a shell to the VM. Once connected, run:
 ```bash
 make -C /lib/modules/`uname -r`/build M=$PWD
 ```
-in the `/project` directory.
+in the `project` directory.
 
 To clean up the built files, run:
 ```bash
