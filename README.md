@@ -1,6 +1,11 @@
 # KernelTLV Live Coding Session #1 Demo
 Code for Live Coding Session 1.
 
+Hi! This session is dedication to creating a driver and monitor application for an imaginary heart rate monitor device.
+When built and run, the final result looks approximately like this:
+
+![screenshot](monitor_screenshot.png)
+
 To start using, first we create a virtual machine for this project:
 
 1. Clone this repository using git.
