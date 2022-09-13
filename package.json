@@ -18,7 +18,7 @@
   "homepage": "https://github.com/kerneltlv/live-coding-1#readme",
   "dependencies": {
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.8.5",
-    "ioctl": "^2.0.1"
+    "blessed-contrib": "^4.11.0",
+    "ioctl": "^2.0.2"
   }
 }
